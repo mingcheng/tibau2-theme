@@ -10,6 +10,12 @@ This theme is inspired from [Google Developer Tibau Theme](https://github.com/ri
 * Don't modify your font config
 * Suitable for longtime coding :^)
 
+
+## How to Install?
+
+Open your IDEA based IDE with `Preferences > Editor > Color Scheme` and select `Import Scheme` with drop down menu, import `tibau2.icls` that's it!
+
+
 ## Screenshots
 
 ### Golang

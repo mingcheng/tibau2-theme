@@ -2,9 +2,8 @@
 
 ![Golang Screenshots](./screenshots/golang.png)
 
-This theme is inspired from [Google Developer Tibau Theme](https://github.com/richellyitalo/google-developer-tibau-theme/), with small modified.
+This theme is inspired from [Google Developer Tibau Theme](https://github.com/richellyitalo/google-developer-tibau-theme/), with small modified. And, I highly recommend [Iosevka font](https://github.com/be5invis/Iosevka) for programming, it's awesome and free(dom).
 
-I highly recommend [Iosevka font](https://github.com/be5invis/Iosevka) for programming, it's awesome and free.
 
 ## Feature
 
